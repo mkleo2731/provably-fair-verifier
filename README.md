@@ -29,7 +29,7 @@ npm install provably-fair-verifier
 Or clone and use directly:
 
 ```bash
-git clone https://github.com/nickmcc90/provably-fair-verifier.git
+git clone https://github.com/mkleo2731/provably-fair-verifier.git
 cd provably-fair-verifier
 npm test
 ```
