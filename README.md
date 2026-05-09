@@ -267,6 +267,11 @@ npm test
 
 All tests use Node.js built-in `assert` module. No test frameworks required.
 
+## Related Projects
+
+- [crypto-casino-data](https://github.com/mkleo2731/crypto-casino-data) — Open dataset of 26+ crypto gambling platforms
+- [crypto-betting-odds](https://github.com/mkleo2731/crypto-betting-odds) — Odds conversion, parlay calculator, Kelly criterion
+
 ## Resources
 
 - [CoinBetPro.com](https://coinbetpro.com) -- Crypto prediction markets & casino reviews
