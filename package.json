@@ -3,28 +3,22 @@
   "version": "1.0.0",
   "description": "Verify provably fair casino game results using HMAC-SHA256. Supports dice, coin flip, card draw, and slot machine verification.",
   "main": "index.js",
+  "homepage": "https://coinbetpro.com",
   "scripts": {
     "test": "node test.js"
   },
   "keywords": [
-    "provably-fair",
-    "casino",
-    "gambling",
-    "verification",
-    "hmac",
-    "sha256",
-    "dice",
-    "slots",
-    "crypto",
-    "bitcoin",
-    "blockchain",
-    "fair-gaming"
+    "provably-fair", "casino", "gambling", "verification", "hmac",
+    "sha256", "dice", "slots", "crypto", "bitcoin", "blockchain", "fair-gaming"
   ],
-  "author": "",
+  "author": "mkleo2731",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nickmcc90/provably-fair-verifier"
+    "url": "https://github.com/mkleo2731/provably-fair-verifier"
+  },
+  "bugs": {
+    "url": "https://github.com/mkleo2731/provably-fair-verifier/issues"
   },
   "engines": {
     "node": ">=12.0.0"
